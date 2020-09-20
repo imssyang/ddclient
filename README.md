@@ -1,0 +1,2 @@
+# ddclient
+/opt/ddclient
